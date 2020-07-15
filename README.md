@@ -1,5 +1,8 @@
 # Minimizing-churn-rate-through-analysis-of-financial-habits
 
+![freestocks-11SgH7U6TmI-unsplash](https://user-images.githubusercontent.com/34093998/87554971-3f8d2a00-c6ce-11ea-83dd-b84a6e3b96ba.jpg)
+
+
 ## Steps Performed
 - Handling missing data
 - Exploratory Data Analysis
@@ -9,6 +12,7 @@
 - Train-Test Split
 - Model Building
 - Feature Selection
+
 
 - #### Feature selection made us understand that only 20 features are good and useful enough for our model to give good accuracy so instead of using all 41 columns we can use only 20 columns to achieve our results.
 
