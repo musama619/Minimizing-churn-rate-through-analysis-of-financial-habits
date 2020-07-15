@@ -28,4 +28,4 @@
 - Also the web and iOS users are more likely to churn than ANdroid Users means that the iOS and web application have issue and need to be fixed
 
 # CONCLUSION
-- #### Our Model as provided us with an indication that which users are likely to churn wit 64% accuracy.
+- #### Our Model has provided us with an indication that which users are likely to churn wit 64% accuracy.
